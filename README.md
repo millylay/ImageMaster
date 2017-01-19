@@ -1,6 +1,7 @@
 # ImageMaster
 
 本项目已部署在heroku平台上: [ImageMaster](https://agile-image-master.herokuapp.com/)
+<br>团队项目，协同开发。
 
 
 ## 截图
